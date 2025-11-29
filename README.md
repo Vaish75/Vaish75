@@ -42,13 +42,6 @@
 
 ---
 
-#  Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vaish75/Vaish75/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 #  **Connect with Me**
 
 <p align="center">

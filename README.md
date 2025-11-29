@@ -1,93 +1,136 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hey, I'm <span style="color:#00A3FF">Vaishnavi Sandrapalli</span> ✨</h1>
+<!-- ADVANCED 3D HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4AF7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Vaishnavi+Sandrapalli!;Data+Science+Student;AI+%26+ML+Enthusiast;Aspiring+Data+Analyst;Welcome+to+My+GitHub+Universe!+🚀" />
+</p>
+
+<br>
+
+<!-- 3D PROFILE -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
+</p>
+
+<br>
+
+---
+
+# 🌟 **About Me**
+✨ I am **Vaishnavi**, a passionate **Data Science student** with strong interest in  
+**Artificial Intelligence, Machine Learning, NLP, Real-Time Systems, and Smart Data Applications.**
+
+💼 I love building **AI-driven, practical real-world solutions**  
+📈 Exploring **Cloud, Big Data, Analytics**  
+🎯 My aim: Become a **Full-Stack Data Analyst / ML Engineer**  
+🔥 I believe in **learning by building**  
+
+---
+
+# 🎖️ **Recruiter Highlights**
+📌 Top Skills that make me job-ready:  
+- Strong foundation in **ML + Data Science**  
+- Experience working with **real-world datasets**  
+- Strong EDA, feature engineering, modeling  
+- SIH project using **Generative AI + NLP**  
+- Real-time data visualizations (Streamlit, Firebase)  
+- End-to-end project building experience  
+
+---
+
+# 🛠 **Tech Arsenal**
+
+### 🚀 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+</p>
+
+### 🧠 Data Science  
+<p>
+  <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow" />
+</p>
+
+### 📊 Visualization  
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄 Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🔧 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
+</p>
+
+---
+
+# 🧩 **Featured Projects**
+
+## 🔥 1. **Generative-AI Legal Document Demystification (SIH 2025)**
+A unique AI-powered system that simplifies legal documents, highlights risks, and compares contracts side-by-side.
+
+🚀 **Tech Stack:** Python, Flask, NLP, AES-256, pdfplumber, PyMuPDF, JS  
+🏅 Selected among **Top 120+ teams** in the SIH Internal Round  
+📌 Built complete **end-to-end scalable system**
+
+---
+
+## ⚡ 2. **Click Tracker – Real-Time User Interaction Dashboard**
+Real-time analytics system to track and visualize user click events.
+
+🚀 **Tech Stack:** Firebase, Streamlit  
+📊 Live dashboard for instant visualization  
+🔗 GitHub: https://github.com/Vaish75/click-tracker  
+
+---
+
+# 🏆 **Trophies & Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaish75&theme=dracula&margin-w=15&margin-h=10&no-frame=true"/>
+</p>
+
+---
+
+# 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300A3FF&lines=Data+Science+Student;AI+%26+ML+Enthusiast;Aspiring+Data+Analyst;Always+Learning+New+Things" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaish75&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish75&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaish75&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish75&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔥 About Me
-- 🎓 **B.Tech CSE (Data Science)** @ JAIN University  
-- 📊 Passionate about **Data Analysis, Machine Learning & AI**  
-- ☁️ Learning **Cloud Computing, NLP, and Big Data**  
-- 💡 Interested in **real-time analytics, dashboards, intelligent systems**  
-- 🎯 Goal → **Full-Stack Data Analyst / ML Engineer**
-
----
-
-# 🛠 Tech Stack & Tools
-
-### 🧠 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 **Data Science**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5E?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 📚 **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase)
-
-### 📊 **Visualization & Analytics**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### ⚙️ **Tools & Cloud**
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-# 🚀 Featured Projects
-
-### ⭐ **1. Generative-AI Legal Document Demystification (SIH 2025)**
-AI-powered system to simplify legal documents, highlight risks, and compare contracts.  
-**Tech:** Python, Flask, NLP, AES-256, HTML/CSS/JS  
-🏅 Selected among **Top 120+ teams** in SIH internal round.  
-
----
-
-### ⭐ **2. Click Tracker – Real-Time User Activity Dashboard**
-Tracks and visualizes user click data in real time using Firebase + Streamlit.  
-**Tech:** Firebase, Streamlit  
-🔗 **Repo:** [Click Tracker](https://github.com/Vaish75/click-tracker)
-
----
-
-# 📈 GitHub Stats
-
+# 🐍 **Animated Contribution Snake**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vaish75&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish75&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🌌 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish75&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaish75&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavi75"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sandrapallivaishnaviiiii75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+# 🔗 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi75">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sandrapallivaishnaviiiii75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting! Have a great day!</h3>
+<h2 align="center">🔥 Thanks for Visiting! Let's Build Something Amazing! 🔥</h2>

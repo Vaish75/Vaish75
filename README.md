@@ -12,50 +12,62 @@
 
 ---
 
-#  **About Me**
-I’m a B.Tech CSE Data Science student driven by curiosity and a passion for building AI-powered, data-driven solutions. I enjoy creating dashboards, analytics systems, and ML applications that are simple, clean, and impactful.
+# 👩‍💻 **About Me**
 
-As a focused team leader, I give 100% to every project and always meet deadlines. I aim to grow as a Data Analyst and ML Engineer.
-One thing that defines me: once I lock in and focus, I will get it done — no matter what.
-
+-  B.Tech CSE (Data Science) Student  
+-  Passionate about building AI-powered and data-driven solutions  
+-  Love creating dashboards, real-time analytics systems & ML applications  
+-  Team leader who gives 100% to every project and meets deadlines  
+-  Aiming to become a **Data Analyst** and **ML Engineer**  
+-  One thing about me: *Once I focus, I get it done — no matter what.*
 
 ---
 
-# 🛠 **Tech Skills**
+#  **Tech Skills**
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
+
+  <!-- All logos in one clean line -->
+  <img src="https://skillicons.dev/icons?i=python" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" height="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="48"/>
+
 </p>
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+---
+
+#  **Contribution**
 
 <p align="center">
-  <!-- Visualization -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 # 🔗 **Connect with Me**
+
 <p align="center">
+
   <a href="https://www.linkedin.com/in/vaishnavi75">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:sandrapallivaishnaviiiii75@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+
+  <a href="https://www.instagram.com/_vaish_75">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
 
-<h2 align="center"> "If you don’t sacrifice for what you love, what you love becomes the sacrifice." </h2>
+<h2 align="center"> *If you don’t sacrifice for what you love, what you love becomes the sacrifice.* </h2>

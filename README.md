@@ -15,7 +15,7 @@
 ---
 
 # 🌟 **About Me**
-✨ I am **Vaishnavi**, a passionate **Data Science student** with strong interest in  
+✨ I am **Vaishnavi**, a passionate ** BTECH CSE Data Science student** with strong interest in  
 **Artificial Intelligence, Machine Learning, NLP, Real-Time Systems, and Smart Data Applications.**
 
 💼 I love building **AI-driven, practical real-world solutions**  

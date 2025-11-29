@@ -10,59 +10,43 @@
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
 </p>
 
-<br>
-
 ---
 
 # 🌟 **About Me**
-✨ I am **Vaishnavi**, a passionate ** BTECH CSE Data Science student** with strong interest in  
-**Artificial Intelligence, Machine Learning, NLP, Real-Time Systems, and Smart Data Applications.**
+I’m **Vaishnavi Sandrapalli**, a passionate **Data Science student** who loves transforming raw data into meaningful insights and intelligent systems.  
+I enjoy working at the intersection of **Machine Learning, Real-Time Applications, AI-driven automation, and Smart Data Engineering**.
 
-💼 I love building **AI-driven, practical real-world solutions**  
-📈 Exploring **Cloud, Big Data, Analytics**  
-🎯 My aim: Become a **Full-Stack Data Analyst / ML Engineer**  
-🔥 I believe in **learning by building**  
+I believe in building projects that are:
+- **Practical**, not theoretical  
+- **Impact-driven**, not just impressive  
+- **User-focused**, not only code-focused  
 
----
-
-# 🎖️ **Recruiter Highlights**
-📌 Top Skills that make me job-ready:  
-- Strong foundation in **ML + Data Science**  
-- Experience working with **real-world datasets**  
-- Strong EDA, feature engineering, modeling  
-- SIH project using **Generative AI + NLP**  
-- Real-time data visualizations (Streamlit, Firebase)  
-- End-to-end project building experience  
+Every day, I try to become **1% better** — by learning, building, breaking, and rebuilding.
 
 ---
 
 # 🛠 **Tech Arsenal**
 
-### 🚀 Languages  
+## 🚀 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python" /> **Python**  
+  <img src="https://skillicons.dev/icons?i=mysql" /> **MySQL**  
+  <img src="https://skillicons.dev/icons?i=html" /> **HTML**  
+  <img src="https://skillicons.dev/icons?i=css" /> **CSS**  
+  <img src="https://skillicons.dev/icons?i=javascript" /> **JavaScript**
 </p>
 
-### 🧠 Data Science  
+## 📊 Visualization Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow" />
-</p>
-
-### 📊 Visualization  
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>  
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🗄 Databases  
+## 🛠 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### 🔧 Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" /> **VS Code**  
+  <img src="https://skillicons.dev/icons?i=github" /> **GitHub**  
+  <img src="https://skillicons.dev/icons?i=firebase" /> **Firebase**
 </p>
 
 ---
@@ -72,7 +56,7 @@
 ## 🔥 1. **Generative-AI Legal Document Demystification (SIH 2025)**
 A unique AI-powered system that simplifies legal documents, highlights risks, and compares contracts side-by-side.
 
-🚀 **Tech Stack:** Python, Flask, NLP, AES-256, pdfplumber, PyMuPDF, JS  
+🚀 **Tech Stack:** Python, Flask, NLP, AES-256, pdfplumber, PyMuPDF  
 🏅 Selected among **Top 120+ teams** in the SIH Internal Round  
 📌 Built complete **end-to-end scalable system**
 
@@ -87,14 +71,18 @@ Real-time analytics system to track and visualize user click events.
 
 ---
 
-# 🏆 **Trophies & Achievements**
+# 📚 **My GitHub Repositories**
+> *Automatically shows all your public repos in a beautiful grid.*
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaish75&theme=dracula&margin-w=15&margin-h=10&no-frame=true"/>
+  <a href="https://github.com/Vaish75?tab=repositories">
+    <img src="https://img.shields.io/badge/Click+Here+to+View+All+Repositories-4AF7FF?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-# 📈 **GitHub Stats**
+# 🏆 **GitHub Stats**
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaish75&show_icons=true&theme=tokyonight" />
@@ -133,4 +121,5 @@ Real-time analytics system to track and visualize user click events.
 
 ---
 
-<h2 align="center">🔥 Thanks for Visiting! Let's Build Something Amazing! 🔥</h2>
+<h2 align="center">✨ "If you don’t sacrifice for what you love, what you love becomes the sacrifice." ✨</h2>
+

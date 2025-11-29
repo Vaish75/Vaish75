@@ -62,4 +62,5 @@
 
 ---
 
-<h2 align="center"> *If you don’t sacrifice for what you love, what you love becomes the sacrifice.* </h2>
+<p align="center"><sub>Always learning. Always improving.</sub></p>
+

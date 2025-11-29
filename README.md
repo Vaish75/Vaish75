@@ -12,16 +12,12 @@
 
 ---
 
-# 🌟 **About Me**
-I’m **Vaishnavi Sandrapalli**, a passionate **Data Science student** who enjoys transforming complex data into clear, actionable insights.  
-My work focuses on **Machine Learning, Real-Time Analytics, AI-driven systems, and problem-solving that helps people in the real world.**
+#  **About Me**
+I’m a B.Tech CSE Data Science student driven by curiosity and a passion for building AI-powered, data-driven solutions. I enjoy creating dashboards, analytics systems, and ML applications that are simple, clean, and impactful.
 
-I believe in building projects that are:
-- ✨ **Meaningful** — solving problems that matter  
-- 🔥 **Insightful** — combining analytics + creativity  
-- 🚀 **Scalable** — built with a product mindset  
+As a focused team leader, I give 100% to every project and always meet deadlines. I aim to grow as a Data Analyst and ML Engineer.
+One thing that defines me: once I lock in and focus, I will get it done — no matter what.
 
-Every day is another opportunity to learn, build, break, improve — and grow.
 
 ---
 
@@ -62,4 +58,4 @@ Every day is another opportunity to learn, build, break, improve — and grow.
 
 ---
 
-<h2 align="center">✨ "If you don’t sacrifice for what you love, what you love becomes the sacrifice." ✨</h2>
+<h2 align="center"> "If you don’t sacrifice for what you love, what you love becomes the sacrifice." </h2>
